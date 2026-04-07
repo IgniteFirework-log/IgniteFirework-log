@@ -13,6 +13,7 @@ Economics / Data Science / Cybersecurity
   - `Completed`: Deep Learning from Scratch 1 & 2
   - `Learning`: 作ってわかる大規模言語モデルの仕組み (2026)
 - **Cybersecurity**:
+  - `Hands-on`: TryHackMe (Practical defense against cyber attacks) 
   - Preparing for `RISS`
 
 ### Certifications
