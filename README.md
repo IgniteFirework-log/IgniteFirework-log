@@ -4,7 +4,7 @@ Economics / Data Science / Cybersecurity
 
 ---
 
-### Technologies (Familiar with)
+### Technologies (Experience with)
 - **Languages**: Python, JavaScript, SQL, HTML/CSS
 - **Tools / OS**: Linux / Kali Linux, WSL2, Git, VSCode, Anaconda
 
