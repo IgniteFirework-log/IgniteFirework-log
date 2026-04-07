@@ -1,10 +1,10 @@
 # IgniteFirework-log
 
-Economics / Data Science / Cybersecurity
+Interested in Economics, Data Science, and Cybersecurity
 
 ---
 
-### Technologies (Experience with)
+### Technologies (Learning / Used)
 - **Languages**: Python, JavaScript, SQL, HTML/CSS
 - **Tools / OS**: Linux / Kali Linux, WSL2, Git, VSCode, Anaconda
 
