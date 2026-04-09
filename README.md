@@ -5,15 +5,15 @@ Interested in Economics, Data Science, and Cybersecurity
 ---
 
 ### Technologies (Learning / Used)
-- **Languages**: Python, JavaScript, SQL, HTML/CSS
-- **Tools / OS**: Linux / Kali Linux, WSL2, Git, VSCode, Anaconda
+- **Languages**: HTML/CSS, SQL, Python, JavaScript(mainly frontend like DOM, but a little experience of Node.js)
+- **Tools / OS**: VSCode, Anaconda, Linux(ubuntu) / Kali Linux, WSL2 
 
-### Current Focus
+### Current learning tech
 - **Large Language Models**:
   - `Completed`: Deep Learning from Scratch 1 & 2
   - `Learning`: 作ってわかる大規模言語モデルの仕組み (2026)
-- **Cybersecurity**:
-  - `Hands-on`: TryHackMe (Practical defense against cyber attacks) 
+- **Cybersecurity(but now just being able to use tools like metasploit)**:
+  - `Hands-on`: TryHackMe 
   - Preparing for `RISS`
 
 ### Certifications
