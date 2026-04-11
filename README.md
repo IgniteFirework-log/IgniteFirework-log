@@ -6,7 +6,7 @@ Interested in Economics, Data Science, and Cybersecurity
 
 ### Technologies (Learning / Used)
 - **Languages**: HTML/CSS, SQL, Python, JavaScript(mainly frontend like DOM, but a little experience of Node.js)
-- **Tools / OS**: VSCode, Anaconda, Linux(ubuntu) / Kali Linux, WSL2 
+- **Tools / OS**: VSCode, Anaconda, Linux(ubuntu) / Kali Linux(using VirtualBox), WSL2 
 
 ### Current learning tech
 - **Large Language Models**:
