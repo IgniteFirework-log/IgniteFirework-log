@@ -4,22 +4,17 @@ Interested in Economics, Data Science, and Cybersecurity
 
 ---  
 
-### Technologies (Learning / Used) 
-- **Languages**: HTML/CSS, SQL, Python, JavaScript(mainly frontend like DOM, but a little experience of Node.js)
-- **Tools / OS**: VSCode, Anaconda, Linux(ubuntu) / Kali Linux(using VirtualBox), WSL2 
+### Skills (Learning / Used) 
+- **Languages**: HTML/CSS, Python, JavaScript(mainly frontend)
+- **Tools / OS**: Linux(ubuntu) / Kali Linux, Firebase, Codex
 
-### Current learning tech as hobby
-- **Large Language Models, Data science**:
-  - `Completed`: Deep Learning from Scratch 1 & 2, 作ってわかる大規模言語モデルの仕組み (2026)
-  - `Learning`: Pythonによるあたらしいデータ分析の教科書
-- **Cybersecurity(but now just being able to use tools like metasploit)**:
-  - `Hands-on`: TryHackMe 
-  - Preparing for `RISS`
+### Current learning as a hobby
+  - Preparing for `RISS`(as known as 情報処理安全確保支援士)
 
 ### Certifications
-- Fundamental Information Technology Engineer (FE)
+- Fundamental Information Technology Engineer
 - IT Passport
-- Bookkeeping 3rd
+- Nissho Bookkeeping 3rd
 
 
 
